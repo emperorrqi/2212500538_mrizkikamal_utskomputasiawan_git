@@ -25,5 +25,5 @@ $location = "Jakarta, Indonesia";
             <p>Lokasi: <?= $location ?></p>
         </div>
     </div>
-</body>
+</body>]
 </html>
